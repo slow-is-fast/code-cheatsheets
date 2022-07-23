@@ -1,4 +1,21 @@
 * String
+** new string
+#+BEGIN_SRC php
+$a = "string";
+#+END_SRC
+** stirng length
+** substring
+** string replace
+** search string
+*** search string
+*** search string with regexp
+*** starts with
+*** ends with
+** trim string
+** split string to array
+** join array to string
+** string with format
+
 * Array
 * Collection
 * File
