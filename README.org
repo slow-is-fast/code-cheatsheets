@@ -3,6 +3,10 @@
 #+BEGIN_SRC php
 $a = "string";
 #+END_SRC
+
+#+BEGIN_SRC python
+a="string"
+#+END_SRC
 ** stirng length
 ** substring
 ** string replace
